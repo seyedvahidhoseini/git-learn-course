@@ -12,3 +12,4 @@ test3
 test4
 test5
 test 6
+line 7
